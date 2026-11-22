@@ -12910,7 +12910,7 @@ Please change the parent <Route path="${parentPath}"> to <Route path="${parentPa
         /* @__PURE__ */ (0, import_jsx_runtime27.jsx)(qo, { children: "For remote content creator, copywriter, social media and content manager roles in Egypt and the Gulf, the fastest way to reach me is email or phone." }),
         /* @__PURE__ */ (0, import_jsx_runtime27.jsxs)("div", { className: "pf-contact", children: [
           /* @__PURE__ */ (0, import_jsx_runtime27.jsx)(Eo, { href: "mailto:reemqaddah26@gmail.com", variant: "primary", children: "Email Reem" }),
-          /* @__PURE__ */ (0, import_jsx_runtime27.jsx)(Eo, { href: "tel:+201091173309", variant: "secondary", children: "+20 109 117 3309" }),
+          /* @__PURE__ */ (0, import_jsx_runtime27.jsx)(Eo, { href: "https://wa.me/201091173309", variant: "secondary", children: "+20 109 117 3309" }),
           /* @__PURE__ */ (0, import_jsx_runtime27.jsx)(Eo, { href: "https://www.linkedin.com/in/reem-qaddah-92b638128/", variant: "secondary", children: "LinkedIn profile" }),
           /* @__PURE__ */ (0, import_jsx_runtime27.jsx)(qc, { text: "reemqaddah26@gmail.com", label: "Copy email", variant: "ghost" }),
           /* @__PURE__ */ (0, import_jsx_runtime27.jsx)(qc, { text: "+201091173309", label: "Copy number", variant: "ghost" })
