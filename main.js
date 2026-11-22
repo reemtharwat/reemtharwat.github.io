@@ -12667,28 +12667,28 @@ Please change the parent <Route path="${parentPath}"> to <Route path="${parentPa
   var markets = [
     { id: "kuwait", title: "Kuwait", blurb: "Restaurants, real estate, e-commerce and services.", samples: [
       { name: "Sushi & seafood platters", sub: "Instagram reel \xB7 restaurant", url: "https://www.instagram.com/reel/DJ9SYHUIr0f/?igsh=aGR1eG96M3g0eHV4", img: kuwait_01_default, alt: "Sushi & seafood platters social media content sample" },
-      { name: "Shami Restaurant", sub: "Instagram post \xB7 grilled chicken", url: "https://www.instagram.com/p/DIq4bilNTae/?igsh=MTFzNXljZ2xvd291cw==", img: kuwait_02_default, alt: "Shami Restaurant social media content sample" },
-      { name: "Sis Shawarma", sub: "Instagram post \xB7 restaurant opening", url: "https://www.instagram.com/p/DR7CYaLiISD/?igsh=dXhnbjVjOW04bjEy", img: kuwait_03_default, alt: "Sis Shawarma social media content sample" },
+      { name: "SHISHAMIKW", sub: "Instagram post \xB7 grilled chicken", url: "https://www.instagram.com/p/DIq4bilNTae/?igsh=MTFzNXljZ2xvd291cw==", img: kuwait_02_default, alt: "SHISHAMIKW social media content sample" },
+      { name: "\u0645\u0637\u0639\u0645 \u0628\u0648\u0646\u0627\u0635\u0631", sub: "Instagram post \xB7 restaurant opening", url: "https://www.instagram.com/p/DR7CYaLiISD/?igsh=dXhnbjVjOW04bjEy", img: kuwait_03_default, alt: "\u0645\u0637\u0639\u0645 \u0628\u0648\u0646\u0627\u0635\u0631 social media content sample" },
       { name: "Laser pointer promo", sub: "Instagram reel \xB7 e-commerce", url: "https://www.instagram.com/p/DTxVqoIjPzj/?igsh=MzZwMHM3bnQwMDlj", img: kuwait_04_default, alt: "Laser pointer promo social media content sample" },
       { name: "Diet meal-prep brand", sub: "Instagram post \xB7 healthy food", url: "https://www.instagram.com/p/DRo175yikhG/?igsh=YXF3bjJqOWtvcmxm", img: kuwait_05_default, alt: "Diet meal-prep brand social media content sample" },
       { name: "Menswear store", sub: "Instagram post \xB7 fashion", url: "https://www.instagram.com/reel/DSzybaBjLvL/?igsh=c25tdjc0MW55ZHlv", img: kuwait_06_default, alt: "Menswear store social media content sample" },
       { name: "Finito", sub: "Instagram reel \xB7 flower boutique", url: "https://www.instagram.com/p/DTc1VYmij4Y/?igsh=MXhnbWR3aWZsenc1bw==", img: kuwait_08_default, alt: "Finito social media content sample" },
-      { name: "Shawq Nather Restaurant", sub: "Instagram post \xB7 mandi & rice", url: "https://www.instagram.com/p/DJPDK6usYcL/?igsh=MWYya3BrbDg5ZjFhMg==", img: kuwait_09_default, alt: "Shawq Nather Restaurant social media content sample" },
-      { name: "Maki Kafi", sub: "Instagram post \xB7 baby care", url: "https://www.instagram.com/p/C7buP_CMcbZ/?igsh=MXZld25pajd0cm9ydQ==", img: kuwait_10_default, alt: "Maki Kafi social media content sample" },
+      { name: "\u0645\u0637\u0639\u0645 \u0645\u064A\u0646\u0648\u0646 \u062D\u0627\u0634\u064A", sub: "Instagram post \xB7 mandi & rice", url: "https://www.instagram.com/p/DJPDK6usYcL/?igsh=MWYya3BrbDg5ZjFhMg==", img: kuwait_09_default, alt: "\u0645\u0637\u0639\u0645 \u0645\u064A\u0646\u0648\u0646 \u062D\u0627\u0634\u064A social media content sample" },
+      { name: "Mavi Kapi", sub: "Instagram post \xB7 baby care", url: "https://www.instagram.com/p/C7buP_CMcbZ/?igsh=MXZld25pajd0cm9ydQ==", img: kuwait_10_default, alt: "Mavi Kapi social media content sample" },
       { name: "Australian lamb butchery", sub: "Instagram post \xB7 fresh meat", url: "https://www.instagram.com/p/C7j2YjesKMP/?igsh=MXN2ZGJyOXc3bDZpcw==", img: kuwait_11_default, alt: "Australian lamb butchery social media content sample" },
-      { name: "Daraj", sub: "Instagram post \xB7 real estate", url: "https://www.instagram.com/p/DAGJZN3oRae/?igsh=MTI4ZW0zNzY1dmZhZg==", img: kuwait_12_default, alt: "Daraj social media content sample" },
-      { name: "Bu Adnan", sub: "Instagram post \xB7 grill restaurant", url: "https://www.instagram.com/p/C8wrbHBsmZk/?img_index=2&igsh=MWU5ZjE3bHlraGZsbg==", img: kuwait_13_default, alt: "Bu Adnan social media content sample" },
-      { name: "Omran Al Basha", sub: "Instagram post \xB7 desserts", url: "https://www.instagram.com/p/C9Z57EGo_Bh/?igsh=Mmp2MHc2eWZkZW9p", img: kuwait_14_default, alt: "Omran Al Basha social media content sample" },
+      { name: "\u0634\u0631\u0643\u0629 \u0627\u0644\u062F\u0631\u0648\u0627\u0632\u0629 \u0627\u0644\u0639\u0627\u0644\u0645\u064A\u0629", sub: "Instagram post \xB7 real estate", url: "https://www.instagram.com/p/DAGJZN3oRae/?igsh=MTI4ZW0zNzY1dmZhZg==", img: kuwait_12_default, alt: "\u0634\u0631\u0643\u0629 \u0627\u0644\u062F\u0631\u0648\u0627\u0632\u0629 \u0627\u0644\u0639\u0627\u0644\u0645\u064A\u0629 social media content sample" },
+      { name: "\u0635\u0648\u064A\u062E\u0627\u062A \u0628\u0648\u0639\u062F\u0646\u0627\u0646", sub: "Instagram post \xB7 grill restaurant", url: "https://www.instagram.com/p/C8wrbHBsmZk/?img_index=2&igsh=MWU5ZjE3bHlraGZsbg==", img: kuwait_13_default, alt: "\u0635\u0648\u064A\u062E\u0627\u062A \u0628\u0648\u0639\u062F\u0646\u0627\u0646 social media content sample" },
+      { name: "\u0639\u0635\u0627\u0626\u0631 \u0631\u0643\u0646 \u0627\u0644\u0628\u0627\u0634\u0627", sub: "Instagram post \xB7 desserts", url: "https://www.instagram.com/p/C9Z57EGo_Bh/?igsh=Mmp2MHc2eWZkZW9p", img: kuwait_14_default, alt: "\u0639\u0635\u0627\u0626\u0631 \u0631\u0643\u0646 \u0627\u0644\u0628\u0627\u0634\u0627 social media content sample" },
       { name: "Nasfa", sub: "Instagram post \xB7 shemaghs", url: "https://www.instagram.com/p/C65-qekM77N/?igsh=dWE3b3hla3UzYWx1", img: kuwait_15_default, alt: "Nasfa social media content sample" },
-      { name: "Al Qairawan Cleaning", sub: "Instagram reel \xB7 cleaning services", url: "https://www.instagram.com/p/C9ze8B5MO8b/?igsh=N2wzc2cyaGhtNmgw", img: kuwait_16_default, alt: "Al Qairawan Cleaning social media content sample" },
+      { name: "\u0634\u0631\u0643\u0629 \u0627\u0644\u0642\u064A\u0631\u0648\u0627\u0646 \u0644\u0644\u062A\u0646\u0638\u064A\u0641", sub: "Instagram reel \xB7 cleaning services", url: "https://www.instagram.com/p/C9ze8B5MO8b/?igsh=N2wzc2cyaGhtNmgw", img: kuwait_16_default, alt: "\u0634\u0631\u0643\u0629 \u0627\u0644\u0642\u064A\u0631\u0648\u0627\u0646 \u0644\u0644\u062A\u0646\u0638\u064A\u0641 social media content sample" },
       { name: "Cloud Kitchen", sub: "Instagram post \xB7 F&B business", url: "https://www.instagram.com/p/Cw-Zz1uo5gH/?igsh=MWVlaHlxcHhpM3dzOQ==", img: kuwait_17_default, alt: "Cloud Kitchen social media content sample" },
       { name: "Dr Diet Kuwait", sub: "Instagram post \xB7 diet food", url: "https://www.instagram.com/p/C6_XvIks5i2/?igsh=MWk0aDB4bWJyMWY2cw==", img: kuwait_18_default, alt: "Dr Diet Kuwait social media content sample" },
       { name: "Kids learning center", sub: "Instagram post \xB7 education", url: "https://www.instagram.com/p/C1141HQM_-N/?igsh=bDAzMG94YnJubnRi", img: kuwait_19_default, alt: "Kids learning center social media content sample" },
       { name: "Hotel Plaza", sub: "Instagram post \xB7 catering", url: "https://www.instagram.com/p/C7mBYC_sGlA/?igsh=dzBlZGduMTFhM3ln", img: kuwait_20_default, alt: "Hotel Plaza social media content sample" },
       { name: "The Healthy Cart", sub: "Instagram post \xB7 protein snacks", url: "https://www.instagram.com/p/C1fMx-KszAG/?igsh=MTZydjQ0cHdscDI5Zg==", img: kuwait_21_default, alt: "The Healthy Cart social media content sample" },
-      { name: "QIT Company", sub: "Instagram post \xB7 ventilation systems", url: "https://www.instagram.com/p/C-rsV8nNT5P/?igsh=dDk4d3o5a3ptc2dh", img: kuwait_22_default, alt: "QIT Company social media content sample" },
+      { name: "\u0643\u064A\u0648 \u0627\u064A \u062A\u0649 \u0644\u0644\u062A\u0647\u0648\u064A\u0629 \u0627\u0644\u0645\u0631\u0643\u0632\u064A\u0629", sub: "Instagram post \xB7 ventilation systems", url: "https://www.instagram.com/p/C-rsV8nNT5P/?igsh=dDk4d3o5a3ptc2dh", img: kuwait_22_default, alt: "\u0643\u064A\u0648 \u0627\u064A \u062A\u0649 \u0644\u0644\u062A\u0647\u0648\u064A\u0629 \u0627\u0644\u0645\u0631\u0643\u0632\u064A\u0629 social media content sample" },
       { name: "Commercial property", sub: "Instagram post \xB7 real estate", url: "https://www.instagram.com/p/DAA4bNdIKpz/?igsh=a2h6ejdtYjVrZGEy", img: kuwait_23_default, alt: "Commercial property social media content sample" },
-      { name: "Aila Properties", sub: "Instagram post \xB7 real estate", url: "https://www.instagram.com/p/C0r9TQjiHLb/?igsh=MTBnM3o0cWs1d2xpbA==", img: kuwait_24_default, alt: "Aila Properties social media content sample" },
+      { name: "AILA Botanicals Landscape Co.", sub: "Instagram post \xB7 real estate", url: "https://www.instagram.com/p/C0r9TQjiHLb/?igsh=MTBnM3o0cWs1d2xpbA==", img: kuwait_24_default, alt: "AILA Botanicals Landscape Co. social media content sample" },
       { name: "Netfils", sub: "Instagram post \xB7 fintech", url: "https://www.instagram.com/p/C0JKxikI5Sb/?igsh=dTVjNG9meXdpZmpl", img: kuwait_25_default, alt: "Netfils social media content sample" },
       { name: "Contracting company", sub: "Instagram post \xB7 construction", url: "https://www.instagram.com/p/DCEperhtM8o/?igsh=MWJjb29pNmNsems3dw==", img: kuwait_26_default, alt: "Contracting company social media content sample" },
       { name: "Graduation gifts", sub: "Instagram post \xB7 gifting", url: "https://www.instagram.com/p/C7hXUgLsGuF/?igsh=MXNrYnUzajZqYXNmOA==", img: kuwait_27_default, alt: "Graduation gifts social media content sample" }
@@ -12696,25 +12696,25 @@ Please change the parent <Route path="${parentPath}"> to <Route path="${parentPa
     { id: "bahrain", title: "Bahrain", blurb: "Food and beverage, hospitality, clinics and home services.", samples: [
       { name: "MADO Bahrain", sub: "Instagram post \xB7 breakfast catering", url: "https://www.instagram.com/p/CAmStlTFyY_/?igsh=MWoxY2hvMWIyd2JweQ==", img: bahrain_01_default, alt: "MADO Bahrain social media content sample" },
       { name: "Resort & pool", sub: "Instagram post \xB7 hospitality", url: "https://www.instagram.com/p/B_MrJu9AcuY/?igsh=MXJscnNobzBvbngxcA==", img: bahrain_02_default, alt: "Resort & pool social media content sample" },
-      { name: "MADO Dondurma", sub: "Instagram post \xB7 ice cream", url: "https://www.instagram.com/p/B8Nz9P2Aw3O/?igsh=MWxibjVodjRrNWR5Nw==", img: bahrain_03_default, alt: "MADO Dondurma social media content sample" },
-      { name: "Fresh", sub: "Instagram post \xB7 juices", url: "https://www.instagram.com/p/CS6NFiQq2TT/?igsh=MTZ6dmpsdzdqemdqaA==", img: bahrain_04_default, alt: "Fresh social media content sample" },
+      { name: "Mado Dondurma Bahrain", sub: "Instagram post \xB7 ice cream", url: "https://www.instagram.com/p/B8Nz9P2Aw3O/?igsh=MWxibjVodjRrNWR5Nw==", img: bahrain_03_default, alt: "Mado Dondurma Bahrain social media content sample" },
+      { name: "Fresco Juice Bar & Cafe", sub: "Instagram post \xB7 juices", url: "https://www.instagram.com/p/CS6NFiQq2TT/?igsh=MTZ6dmpsdzdqemdqaA==", img: bahrain_04_default, alt: "Fresco Juice Bar & Cafe social media content sample" },
       { name: "Doctor House", sub: "Instagram post \xB7 medical wear", url: "https://www.instagram.com/p/CGaQzEuIAYb/?igsh=MWpmaGxxZW9laTRmeQ==", img: bahrain_05_default, alt: "Doctor House social media content sample" },
       { name: "Advanced Veterinary Clinic", sub: "Instagram post \xB7 veterinary", url: "https://www.instagram.com/p/CFZyy7uoV2W/?igsh=dWU0a3l3OHl3OTU5", img: bahrain_06_default, alt: "Advanced Veterinary Clinic social media content sample" },
-      { name: "I Pest Control", sub: "Instagram post \xB7 pest control", url: "https://www.instagram.com/p/B-HdHiWDPEN/?igsh=MW9mMHNwbjF3cHlnag==", img: bahrain_07_default, alt: "I Pest Control social media content sample" },
+      { name: "i Pest Control", sub: "Instagram post \xB7 pest control", url: "https://www.instagram.com/p/B-HdHiWDPEN/?igsh=MW9mMHNwbjF3cHlnag==", img: bahrain_07_default, alt: "i Pest Control social media content sample" },
       { name: "Dessert shop", sub: "Instagram post \xB7 desserts", url: "https://www.instagram.com/p/CG7_T1prwpa/?igsh=MWJqMnAwYmNzdmdkaw==", img: bahrain_08_default, alt: "Dessert shop social media content sample" },
-      { name: "Souda", sub: "Instagram post \xB7 fried chicken", url: "https://www.instagram.com/p/CQo0eoBro-H/?igsh=ZGM0YTY0Z2xpNDUx", img: bahrain_09_default, alt: "Souda social media content sample" },
+      { name: "New York Chicken Bahrain", sub: "Instagram post \xB7 fried chicken", url: "https://www.instagram.com/p/CQo0eoBro-H/?igsh=ZGM0YTY0Z2xpNDUx", img: bahrain_09_default, alt: "New York Chicken Bahrain social media content sample" },
       { name: "Parky", sub: "Instagram post \xB7 parquet flooring", url: "https://www.instagram.com/p/CPKfdHVosvo/?igsh=MXE3dzZoMXNkb3gxdA==", img: bahrain_10_default, alt: "Parky social media content sample" },
       { name: "Breakfast restaurant", sub: "Instagram post \xB7 F&B", url: "https://www.instagram.com/p/B9vg_48IR0R/?igsh=dWpmczJjY3dmYWUw", img: bahrain_11_default, alt: "Breakfast restaurant social media content sample" },
       { name: "Abou Khalil Restaurant", sub: "Instagram post \xB7 sandwiches", url: "https://www.instagram.com/p/CHXe60oloBZ/?igsh=MWxjbmRrZ3EwbWZzeQ==", img: bahrain_12_default, alt: "Abou Khalil Restaurant social media content sample" }
     ] },
     { id: "saudi", title: "Saudi Arabia", blurb: "Restaurants, retail, salons and event catering.", samples: [
-      { name: "Al Sharifa", sub: "Instagram post \xB7 mixed grill offer", url: "https://www.instagram.com/p/C94ikM0NLHj/?igsh=MTE3NHRrZ216a2N1eQ==", img: saudi_01_default, alt: "Al Sharifa social media content sample" },
+      { name: "Shurfa Restaurant", sub: "Instagram post \xB7 mixed grill offer", url: "https://www.instagram.com/p/C94ikM0NLHj/?igsh=MTE3NHRrZ216a2N1eQ==", img: saudi_01_default, alt: "Shurfa Restaurant social media content sample" },
       { name: "AC maintenance company", sub: "Instagram post \xB7 home services", url: "https://www.instagram.com/p/C7PxpMLixlt/?igsh=MW5zMWR5bDk4aXJtag==", img: saudi_02_default, alt: "AC maintenance company social media content sample" },
       { name: "Zahrat El Aroos", sub: "Instagram post \xB7 salon offers", url: "https://www.instagram.com/p/C6-9eN2qZqs/?igsh=MXRza2MzbHNxZXB4YQ==", img: saudi_03_default, alt: "Zahrat El Aroos social media content sample" },
       { name: "Modaqiqah", sub: "Instagram post \xB7 graduation gifts", url: "https://www.instagram.com/p/C-S78VDoIFu/?igsh=bXVzbzcyMjdiMjly", img: saudi_04_default, alt: "Modaqiqah social media content sample" },
       { name: "Tactical Store", sub: "Instagram post \xB7 apparel", url: "https://www.instagram.com/p/B2w5bdIB1Em/?igsh=dGJyaGt0czhqaWtt", img: saudi_05_default, alt: "Tactical Store social media content sample" },
       { name: "Bayt Jadi", sub: "Instagram post \xB7 seafood offer", url: "https://www.instagram.com/p/DAGG4lfIKHP/?igsh=M213YjgzM3c3ZjEw", img: saudi_06_default, alt: "Bayt Jadi social media content sample" },
-      { name: "Al Sharifa Catering", sub: "Instagram post \xB7 events & buffets", url: "https://www.instagram.com/p/DAL08RPNY4k/?igsh=ZDMyZm9jOXI4M3h2", img: saudi_07_default, alt: "Al Sharifa Catering social media content sample" }
+      { name: "Shurfa Restaurant", sub: "Instagram post \xB7 events & buffets", url: "https://www.instagram.com/p/DAL08RPNY4k/?igsh=ZDMyZm9jOXI4M3h2", img: saudi_07_default, alt: "Shurfa Restaurant social media content sample" }
     ] },
     { id: "egypt", title: "Egypt", blurb: "Facebook campaigns for restaurants, travel, retail and clubs.", samples: [
       { name: "Romman El Sultan", sub: "Facebook post \xB7 fried chicken", url: "https://www.facebook.com/share/p/CK7jpuy6GmLzarrU/?mibextid=oFDknk", img: egypt_01_default, alt: "Romman El Sultan social media content sample" },
@@ -12727,15 +12727,15 @@ Please change the parent <Route path="${parentPath}"> to <Route path="${parentPa
       { name: "Lo2ma W Shafta", sub: "Facebook post \xB7 restaurant", url: "https://www.facebook.com/share/p/ETfZSv6oMgqpxEqA/?mibextid=oFDknk", img: egypt_08_default, alt: "Lo2ma W Shafta social media content sample" }
     ] },
     { id: "medical", title: "Medical & clinics", blurb: "Dermatology, dental, OBGYN, aesthetics and physiotherapy content across the Gulf.", samples: [
-      { name: "Dr. Khaled Mostafa Kamel", sub: "Instagram post \xB7 dermatology", url: "https://www.instagram.com/p/DTNPPCdiA8Q/?igsh=MWZ2ZDM0OHZtMmczbQ==", img: medical_01_default, alt: "Dr. Khaled Mostafa Kamel social media content sample" },
+      { name: "\u0645\u0631\u0643\u0632 \u0627\u0644\u0634\u0639\u0628 \u0627\u0644\u062A\u062E\u0635\u0635\u064A", sub: "Instagram post \xB7 dermatology", url: "https://www.instagram.com/p/DTNPPCdiA8Q/?igsh=MWZ2ZDM0OHZtMmczbQ==", img: medical_01_default, alt: "\u0645\u0631\u0643\u0632 \u0627\u0644\u0634\u0639\u0628 \u0627\u0644\u062A\u062E\u0635\u0635\u064A social media content sample" },
       { name: "Skincare specialist", sub: "Instagram reel \xB7 skincare", url: "https://www.instagram.com/reel/DTnhfNZiKw5/?igsh=cXJoOTdtbWdsajJ0", img: medical_02_default, alt: "Skincare specialist social media content sample" },
-      { name: "Dr. Amina Skoot Clinic", sub: "Instagram post \xB7 OBGYN", url: "https://www.instagram.com/p/DTf0TA7COZF/?igsh=MWdnZTNlYW9lbzVx", img: medical_03_default, alt: "Dr. Amina Skoot Clinic social media content sample" },
+      { name: "\u0645\u0631\u0643\u0632 \u0646\u0627\u064A\u0633 \u0643\u064A\u0631 \u0627\u0644\u0637\u0628\u064A", sub: "Instagram post \xB7 OBGYN", url: "https://www.instagram.com/p/DTf0TA7COZF/?igsh=MWdnZTNlYW9lbzVx", img: medical_03_default, alt: "\u0645\u0631\u0643\u0632 \u0646\u0627\u064A\u0633 \u0643\u064A\u0631 \u0627\u0644\u0637\u0628\u064A social media content sample" },
       { name: "Aesthetic clinic", sub: "Instagram post \xB7 aesthetics", url: "https://www.instagram.com/p/DTsIkEwCAy6/?igsh=amVhdDJzbm1yM3pj", img: medical_04_default, alt: "Aesthetic clinic social media content sample" },
-      { name: "Kana Clinic", sub: "Instagram post \xB7 bariatric surgery", url: "https://www.instagram.com/p/C9M6-pdodsq/?igsh=MWtsdm5pYzF1N2k3", img: medical_05_default, alt: "Kana Clinic social media content sample" },
-      { name: "Dr. Saad Clinic", sub: "Instagram post \xB7 dental", url: "https://www.instagram.com/p/DBD2SQXtcoK/?igsh=MWZ6emJhczFpMHQybA==", img: medical_06_default, alt: "Dr. Saad Clinic social media content sample" },
+      { name: "Khaled Alanezi", sub: "Instagram post \xB7 bariatric surgery", url: "https://www.instagram.com/p/C9M6-pdodsq/?igsh=MWtsdm5pYzF1N2k3", img: medical_05_default, alt: "Khaled Alanezi social media content sample" },
+      { name: "Saad Alanezi", sub: "Instagram post \xB7 dental", url: "https://www.instagram.com/p/DBD2SQXtcoK/?igsh=MWZ6emJhczFpMHQybA==", img: medical_06_default, alt: "Saad Alanezi social media content sample" },
       { name: "Women's health clinic", sub: "Instagram post \xB7 pregnancy care", url: "https://www.instagram.com/p/DAdbJ3NNKV4/?igsh=MWt3NGluMzJlM2l2MQ==", img: medical_07_default, alt: "Women's health clinic social media content sample" },
       { name: "Oncology clinic", sub: "Instagram post \xB7 awareness", url: "https://www.instagram.com/p/C-iklLAsHwc/?igsh=MjI0a3g3azBkNXRp", img: medical_08_default, alt: "Oncology clinic social media content sample" },
-      { name: "Dr. Abeer Clinic", sub: "Instagram post \xB7 women's health", url: "https://www.instagram.com/p/C78g-kJhKwj/?igsh=MWM5dnV2cmEyNnZ4eg==", img: medical_09_default, alt: "Dr. Abeer Clinic social media content sample" },
+      { name: "Dr Abeer Alzaydai", sub: "Instagram post \xB7 women's health", url: "https://www.instagram.com/p/C78g-kJhKwj/?igsh=MWM5dnV2cmEyNnZ4eg==", img: medical_09_default, alt: "Dr Abeer Alzaydai social media content sample" },
       { name: "Dental clinic", sub: "Instagram post \xB7 implants", url: "https://www.instagram.com/p/DCCH3eBoMoU/?igsh=MWp0aGFsOHEyODZvbg==", img: medical_10_default, alt: "Dental clinic social media content sample" },
       { name: "Core Clinic", sub: "Instagram post \xB7 physiotherapy", url: "https://www.instagram.com/p/C45fA0Ptdsh/?igsh=MWJrcnNoNGZtenpjeA==", img: medical_11_default, alt: "Core Clinic social media content sample" },
       { name: "PT Clinic", sub: "Instagram post \xB7 physiotherapy", url: "https://www.instagram.com/p/C1aGoRAs92j/?igsh=MWp0MzlvdTY3ODRnNg==", img: medical_12_default, alt: "PT Clinic social media content sample" }
@@ -12776,11 +12776,11 @@ Please change the parent <Route path="${parentPath}"> to <Route path="${parentPa
   ];
   var results = [
     { value: "123,675.250 KD", label: "Total sales in one month across 7 chocolate brands on $34,101 ad spend", context: "Chocolate portfolio, Kuwait \xB7 Feb 2026", wide: true },
-    { value: "74,804 KD", label: "One month of sales for a single brand on $12,419 ad spend", context: "Floron \xB7 Mar 2026" },
-    { value: "375", label: "Website purchases in one month at $11.37 per purchase", context: "Sucree \xB7 Jan 2026" },
+    { value: "74,804 KD", label: "One month of sales for a single brand on $12,419 ad spend", context: "Flor\xF3n \xB7 Mar 2026" },
+    { value: "375", label: "Website purchases in one month at $11.37 per purchase", context: "Sur\xE9e \xB7 Jan 2026" },
     { value: "14.5", label: "Average return on ad spend for the month", context: "Tsaheel \xB7 Jan 2026" },
     { value: "+64.6%", label: "Growth in purchases month over month, with 187 website orders worth 9,837 KD", context: "Tsaheel \xB7 Feb 2026" },
-    { value: "8.7", label: "ROAS on 3,920 KD sales with 450 KD ad spend", context: "The Shrimper \xB7 Apr 2026" }
+    { value: "8.7", label: "ROAS on 3,920 KD sales with 450 KD ad spend", context: "The Shrimper KW \xB7 Apr 2026" }
   ];
   var evidence = [
     {
@@ -12792,8 +12792,8 @@ Please change the parent <Route path="${parentPath}"> to <Route path="${parentPa
     {
       img: chocolate_mar_2026_default,
       report: "Chocolate portfolio report \xB7 Mar 2026",
-      verifies: "Backs: 74,804 KD of sales for Floron on $12,419 ad spend in a single month.",
-      alt: "Chocolate Performance Report Mar 2026 showing Floron with $12,419 ad spend and 74,804 KD total sales"
+      verifies: "Backs: 74,804 KD of sales for Flor\xF3n on $12,419 ad spend in a single month.",
+      alt: "Chocolate Performance Report Mar 2026 showing Flor\xF3n with $12,419 ad spend and 74,804 KD total sales"
     },
     {
       img: brandlift_instagram_jan_2026_default,
@@ -12880,11 +12880,13 @@ Please change the parent <Route path="${parentPath}"> to <Route path="${parentPa
       /* @__PURE__ */ (0, import_jsx_runtime27.jsx)(Vo, { label: "Career", heading: "Experience", children: /* @__PURE__ */ (0, import_jsx_runtime27.jsx)(Ho, { children: experience.map((e2) => /* @__PURE__ */ (0, import_jsx_runtime27.jsx)(Bo, { name: e2.name, detail: e2.detail }, e2.name)) }) }),
       /* @__PURE__ */ (0, import_jsx_runtime27.jsx)(Vo, { label: "Certifications", children: /* @__PURE__ */ (0, import_jsx_runtime27.jsx)(Ho, { children: certifications.map((c) => /* @__PURE__ */ (0, import_jsx_runtime27.jsx)(Bo, { name: c.name, detail: c.detail }, c.name)) }) }),
       /* @__PURE__ */ (0, import_jsx_runtime27.jsxs)(Vo, { label: "Contact", heading: "Work with me", children: [
-        /* @__PURE__ */ (0, import_jsx_runtime27.jsx)(qo, { children: "For remote content creator, copywriter, social media and content manager roles in Egypt and the Gulf, the fastest way to reach me is email." }),
+        /* @__PURE__ */ (0, import_jsx_runtime27.jsx)(qo, { children: "For remote content creator, copywriter, social media and content manager roles in Egypt and the Gulf, the fastest way to reach me is email or phone." }),
         /* @__PURE__ */ (0, import_jsx_runtime27.jsxs)("div", { className: "pf-contact", children: [
           /* @__PURE__ */ (0, import_jsx_runtime27.jsx)(Eo, { href: "mailto:reemqaddah26@gmail.com", variant: "primary", children: "Email Reem" }),
+          /* @__PURE__ */ (0, import_jsx_runtime27.jsx)(Eo, { href: "tel:+201091173309", variant: "secondary", children: "+20 109 117 3309" }),
           /* @__PURE__ */ (0, import_jsx_runtime27.jsx)(Eo, { href: "https://www.linkedin.com/in/reem-qaddah-92b638128/", variant: "secondary", children: "LinkedIn profile" }),
-          /* @__PURE__ */ (0, import_jsx_runtime27.jsx)(qc, { text: "reemqaddah26@gmail.com", label: "Copy email", variant: "ghost" })
+          /* @__PURE__ */ (0, import_jsx_runtime27.jsx)(qc, { text: "reemqaddah26@gmail.com", label: "Copy email", variant: "ghost" }),
+          /* @__PURE__ */ (0, import_jsx_runtime27.jsx)(qc, { text: "+201091173309", label: "Copy number", variant: "ghost" })
         ] })
       ] }),
       /* @__PURE__ */ (0, import_jsx_runtime27.jsxs)(Jo, { children: [
