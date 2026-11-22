@@ -12748,8 +12748,17 @@ Please change the parent <Route path="${parentPath}"> to <Route path="${parentPa
   // src/photos/reports/chocolate-mar-2026.jpg
   var chocolate_mar_2026_default = "./assets/SZVGZ4IJ.jpg";
 
-  // src/photos/reports/brandlift-instagram-jan-2026.jpg
-  var brandlift_instagram_jan_2026_default = "./assets/D7BOSNI5.jpg";
+  // src/photos/reports/meta-ads-week-jan26-feb1-2026.jpg
+  var meta_ads_week_jan26_feb1_2026_default = "./assets/THZ7EISN.jpg";
+
+  // src/photos/reports/meta-campaigns-dec-2025.jpg
+  var meta_campaigns_dec_2025_default = "./assets/U7GSN64E.jpg";
+
+  // src/photos/reports/swaikhat-bouhamoud-oct-nov-2025.jpg
+  var swaikhat_bouhamoud_oct_nov_2025_default = "./assets/BW4VK2KO.jpg";
+
+  // src/photos/reports/meta-calls-feb-2026.jpg
+  var meta_calls_feb_2026_default = "./assets/LHP57HHW.jpg";
 
   // src/App.tsx
   var import_jsx_runtime27 = __toESM(require_jsx_runtime());
@@ -12796,10 +12805,28 @@ Please change the parent <Route path="${parentPath}"> to <Route path="${parentPa
       alt: "Chocolate Performance Report Mar 2026 showing Flor\xF3n with $12,419 ad spend and 74,804 KD total sales"
     },
     {
-      img: brandlift_instagram_jan_2026_default,
-      report: "Instagram purchase results \xB7 Dec 25, 2025 \u2013 Jan 25, 2026",
-      verifies: "Backs: 375 website purchases at $11.37 per purchase on $4,265.01 total spend.",
-      alt: "Instagram Ads purchase results report showing 375 website purchases at $11.37 per purchase and $4,265.01 total spent, with Arabic summary bullets"
+      img: meta_ads_week_jan26_feb1_2026_default,
+      report: "Meta ads \xB7 Jan 26 \u2013 Feb 1, 2026",
+      verifies: "Single ads at 16.57 and 19.17 ROAS: 7 website purchases at $4.64 per purchase, 3 at $5.24, and 19 at $12.62 in one week.",
+      alt: "Meta Ads Manager showing one week of ad results: dark post 2 with 7 website purchases at $4.64 per purchase and 16.57 ROAS, 15/1 with 3 purchases at $5.24 and 19.17 ROAS, and 26 jan with 19 purchases at $12.62 and 7.03 ROAS"
+    },
+    {
+      img: meta_campaigns_dec_2025_default,
+      report: "Meta sales campaigns \xB7 Dec 2025",
+      verifies: "Backs: 289 website purchases at $8.52 per purchase with 7.06 ROAS on $2,461.57 spend, worth $17,382.93 in December.",
+      alt: "Meta Ads Manager campaigns view for December 2025 showing New Sales intr with 289 website purchases at $8.52 per purchase, $2,461.57 spent, 7.06 purchase ROAS and $17,382.93 conversion value, and New Sales Lookalike with 188 purchases at $8.78 and 6.82 ROAS"
+    },
+    {
+      img: swaikhat_bouhamoud_oct_nov_2025_default,
+      report: "Swaikhat Bouhamoud Meta report \xB7 Oct \u2013 Nov 2025",
+      verifies: "Two months: $2,953.24 ad spend, 61 website purchases, 253,995+ ad impressions, and 280 customer inquiries at $1.95 per inquiry.",
+      alt: "Meta Ads Performance Report for Swaikhat Bouhamoud, October to November 2025, showing $2,953.24 total ad spend, 61 website purchases at $35.57 per purchase, 253,995+ ad impressions, 266 message conversations and 14 calls at $1.95 per inquiry, and 343 profile visits with 184 page views at $0.22 per visit"
+    },
+    {
+      img: meta_calls_feb_2026_default,
+      report: "Meta call ads \xB7 Feb 2026",
+      verifies: "Ads driving phone calls: 38 calls at $0.81 per call, 10 at $1.23, 14 at $1.89 and 14 at $1.43.",
+      alt: "Meta Ads Manager showing four call ads: 4 Feb with 38 calls placed at $0.81 per call, 7 feb with 10 calls at $1.23, story with 14 calls at $1.89, and 18 Feb Ramadan with 14 calls at $1.43"
     }
   ];
   var testimonials = [
